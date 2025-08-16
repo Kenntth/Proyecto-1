@@ -28,6 +28,6 @@ La segunda opción te permitirá escribir como resolviste el ticket y lo elimina
 La tercera opción de nuestro menú principal mostrar la bitácora de lo sucedido
 La cuarta opción cerrara el programa y mostrara un mensaje “Gracias por utilizar el sistema”
 
-# Diagrama de Clases
+# Diagrama 
 [![diagrama-de-clases.jpg](https://i.postimg.cc/fbt7qhqL/diagrama-de-clases.jpg)](https://postimg.cc/4KGhnjgk)
 
